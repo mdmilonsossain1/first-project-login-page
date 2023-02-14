@@ -1,0 +1,46 @@
+.login-div{
+  background-color: rgb(117, 117, 236);
+  width: 100%;
+  min-height: 80px;
+  display: flex;
+  text-align:;
+  margin-block: ;
+}
+.login-div div{
+  margin-left: 40%;
+}
+label{
+  display: inline-block;
+}
+.forget{
+  margin-left: 20px;
+  display: inline-block;
+}
+.login-div div a{
+  display: inline-block;
+}
+.number{
+  width: 350px;
+  margin: 6px 0px;
+}
+.container{
+  margin-left: 40%;
+  box-sizing: border-box;
+  padding-right:30px ;
+}
+body{
+  background-color: aliceblue;
+}
+.footer{
+  background-color: rgb(129, 139, 146);
+  padding: 0px 100px;
+}
+.lang{
+  padding: 0px 5px;
+}
+.footer-link a{
+  padding: 0px 40px;
+}
+
+
+
